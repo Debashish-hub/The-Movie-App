@@ -60,7 +60,7 @@ Used for inline YouTube trailer playback.
 
 ### 1. Clone repository
 ```swift
-git clone https://github.com/Debashish-hub/TheMovieApp.git
+git clone https://github.com/Debashish-hub/The-Movie-App.git
 cd TheMovieApp
 ```
 ### 2. Open project
@@ -78,7 +78,7 @@ let API_KEY = "YOUR_KEY"
 ---
 
 # Architecture Diagram
-
+![Arcihitecture](https://github.com/Debashish-hub/The-Movie-App/blob/main/Architecture_diagram.png)
 
 # Assumptions
 - API key stored locally (acceptable for demo).
@@ -109,6 +109,7 @@ let API_KEY = "YOUR_KEY"
 - Reduce memory usage with thumbnail-only preview for trailers
 
 # Demo
+<img src="https://github.com/Debashish-hub/The-Movie-App/blob/main/home.gif" width="300" height="700" /><img src="https://github.com/Debashish-hub/The-Movie-App/blob/main/details.gif" width="300" height="700" /><img src="https://github.com/Debashish-hub/The-Movie-App/blob/main/Favourite.gif" width="300" height="700" />
 
 # Credits
 - TMDb API — https://www.themoviedb.org
